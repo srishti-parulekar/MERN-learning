@@ -1,0 +1,27 @@
+javascript used to be a scripting language. 
+now it is an object oriented programming language. 
+we can now write client side as well as server side code. 
+
+client server architecture: 
+
+what is a client and what is a server? 
+client is the end user that accesses the website. 
+
+computer (client machine) sends a request to the server machine and receives a response in return. 
+client and server both are softwares. the machine which contains the server is called the server machine. 
+
+#find the list of server softwares. 
+
+Three Layer (MVC) Architecture of Applications:
+
+This architecture was used in the 2000s.  
+1. presentation layer or view layer. 
+technologies include: HTML, CSS, javascript. (react, angular, aura, LWC, vue)
+2. service layer or business logic layer. 
+technologies include: python, java, golang, Apex, C#, C/C++ etc. 
+3. data access layer: connected by Drivers. 
+4. database: KDB+, PostGRE, ingres, Sybase, mongoDB, oracle, mySQL, SQL server
+
+all four layers are joined by 'integrations'
+
+Applications are front end applications with backend services. 
