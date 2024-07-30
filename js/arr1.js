@@ -19,7 +19,7 @@ console.log(a3[-1])
 
 //arrays can be used as a stack used the methods push() and pop()
 var stack = ["banana", "chocochip", "cuppycake"]
-stack.push("dalchawal");
+stack.push("dalchawal"); 
 console.log(stack)
 var element = stack.pop()
 console.log(element)
