@@ -25,3 +25,17 @@ technologies include: python, java, golang, Apex, C#, C/C++ etc.
 all four layers are joined by 'integrations'
 
 Applications are front end applications with backend services. 
+
+npm is used for package management; for setting up the environment 
+npx is the package executer. 
+
+
+
+
+npx create-react-app mern-app
+npm create vite@latest
+
+what is react?
+it is a js library used to build components. 
+
+difference between multi page applications and single page applications? 
