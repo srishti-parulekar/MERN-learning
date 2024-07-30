@@ -55,3 +55,15 @@ function outer3(){
     console.log("god give me patience please");
 })()
 //this is called immediately invoked function expression IIFE. 
+
+const add = (function () {
+    let counter = 0;
+    return function() { 
+        counter += 1; 
+        return counter;
+    };
+})();
+
+console.log(add());
+console.log(add());
+console.log(add());

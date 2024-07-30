@@ -1,3 +1,9 @@
+books; 
+seymeur data structures
+horowitz sahni data structures pdf
+
+online documentations: mdn
+
 javascript used to be a scripting language. 
 now it is an object oriented programming language. 
 we can now write client side as well as server side code. 
@@ -39,3 +45,29 @@ what is react?
 it is a js library used to build components. 
 
 difference between multi page applications and single page applications? 
+
+
+Closures in JavaScript are functions that retain access to variables from their containing scope even after the parent function has finished executing. They’re useful for maintaining private data, creating modular code, and implementing callback functions with persistent state.
+
+
+what are data structures? 
+data structures are tools to store, process, retriece data.
+data structures can be classical or advanced. 
+classical data structures:
+operations applied on them: linear (array, stack queue, linkedlist, vector), non-linear(trees, graphs, hashtables), recursion. 
+advanced data structures: 
+data structures used in java script: 
+
+1) array: 
+arrays are internally classes and can hence have predefined methods. 
+arrays are contiguous; the elements are separated based on the byte size of the data in cell and every cell 
+is stored starting from index 0. 
+declarations:
+in C arrays are homogeneous but in java script arrays are not homogeneous. 
+
+const cars = ["books", "chocos", "pens"];
+console.log(cars.length)
+2) set: 
+
+3) map: 
+
