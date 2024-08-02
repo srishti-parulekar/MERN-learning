@@ -71,3 +71,59 @@ console.log(cars.length)
 
 3) map: 
 
+
+pillars of OOPs: 
+in the right order of implementation? abstraction, encapsulation, inheritance, polymorphism. 
+
+
+concepts of oops: 
+class, object, message passing, cohesion, coupling (loose coupling and tight coupling), associations, aggregations etc. 
+make a list of all concepts of OOPs. 
+
+Spread syntax "expands" an array into its elements, while rest syntax collects multiple elements and "condenses" them into a single element.
+
+spread operator 
+(...) is also known as ellipsis in english. 
+spread operators 
+
+
+rest operator 
+
+
+we cannot write functions inside classes in java; only methods are allowed
+function sit() {} will give an error. 
+sit(){} is allowed.
+
+in js constructor is a method that is named constructor
+there can only be one constructor in javascript. 
+we can never have multiple constructors in java script.
+multiple parameters are handled using rest keyword. 
+
+
+Programming 
+Logic 
+Design 
+Architect 
+Plan
+
+
+
+Design Principles 
+1) KISS: Keep it simple stupid. 
+Design Patterns
+
+SOLID principles in detail. 
+
+YAGNI design principle: you arent gonna need it.
+
+DRY: dont repeat yourself.
+
+WET: write everything twice. 
+
+SLAP: single level of abstraction principle. 
+
+
+Design Patterns: 
+general repeatable solution to a commonly occurring problem in software design. 
+
+
